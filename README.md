@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I'm Valters
+#### I've began my journey in CS just a year ago!
 
-<!--
-**ValtersSt/ValtersSt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills:  / JS / HTML / CSS / Java / MySQL / Python
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on contributing more to my practical knowledge. 
+- 🌱 I’m currently learning JavaScript 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ValtersSt)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/valters-steinblums-048147216//)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ValtersSt)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ValtersSt&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ValtersSt)  
+
+![Profile views](https://gpvc.arturio.dev/ValtersSt)  
